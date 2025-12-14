@@ -3,7 +3,7 @@
 First, clone the repository:
 
 ```
-git clone https://github.com/zhaoyang02/[PML-Project]Contrastive-Neural-Process.git
+git clone https://github.com/zhaoyang02/Contrastive-Neural-Process.git
 ```
 
 Then install the dependencies as listed in `env.yml` and activate the environment:
